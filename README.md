@@ -1,4 +1,4 @@
-# ECEN_732 — Delayed Mobile Offloading Simulation
+# ECEN_732 — Mideterm presentation
 
 Implementation of the paper:
 
